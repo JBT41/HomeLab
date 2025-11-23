@@ -14,8 +14,9 @@ Goals / Objectives
 	• Configure Proxy
 	•  host to redirect source requests to applications listening on specific ports of the docker host
 
+	
 
-	<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/8a439321-751d-4e72-8f88-b39a2bafdfb7" />
+
 
 
 
