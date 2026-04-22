@@ -12,7 +12,7 @@ It is built as a single-node platform using Docker Compose, with an emphasis on 
 ## Platform
 
 - Host: HP MicroServer (bare metal)
-- Operating System: Linux
+- Operating System: Linux - Ubuntu Server
 - Container Runtime: Docker
 - Orchestration: Docker Compose
 - Network: Private LAN (192.168.0.0/24)
