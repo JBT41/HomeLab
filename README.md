@@ -1,5 +1,3 @@
-# HomeLab
-
 # HomeLab – Linux-Based Container Platform
 
 ## Overview
